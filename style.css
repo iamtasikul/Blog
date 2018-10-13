@@ -30,7 +30,17 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .maincontent{width: 650px;background: #DFDFDF none repeat scroll 0 0;float: left;padding: 10px;margin: 15px 15px 15px 0}
 
-.maincontent p{font-size: 16px;line-height: 22px;margin-bottom: 15px}
+.samepost{}
+
+.samepost h2{border-bottom: 2px solid #555555;font-size: 24px;margin-bottom: 10px;padding: 10px}
+
+.samepost img{background: #fff none repeat  scroll 0 0;border: 1px solid #9b999a;float: left;margin-right: 10px;padding: 5px;width: 200px}
+
+.samepost p{font-size: 16px;line-height: 23px;text-align: justify}
+
+.readmore{float: right;margin-top: 10px}
+
+.readmore a{background: #fff none repeat scroll 0 0;border: 1px solid #9b999a;border-radius: 3px;color: #333;display: block;font-size: 15px;padding: 4px 8px;text-decoration: none }
 
 .sidebar{width: 255px;background: #DFDFDF none repeat scroll 0 0;float: right;margin-top: 15px;padding: 10px;margin-bottom: 15px}
 
