@@ -16,9 +16,15 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .headersection h2{text-align: center;padding-top: 30px;font-size: 40px}
 
-.navsection{height: 30px;background: #7A7A7A;color: #FFFDFD}
+.navsection{background: #7A7A7A;color: #FFFDFD}
 
-.navsection p{padding-left: 50px;font-size: 20px;padding-top: 5px;font-weight: bold}
+.navsection ul{margin: 0;padding: 0;list-style: none}
+
+.navsection ul li{display: block;float: left}
+
+.navsection ul li a{background: #cdcbcc none repeat 0 0;color:#444;display: block;font-size: 20px;font-weight: bold;margin: 5px;padding: 5px 30px;text-decoration: none}
+
+.navsection ul li a:hover{background: #2f2d2e;color: #FFF}
 
 .contentsection{background: #FFFFFF}
 
@@ -26,7 +32,7 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .maincontent p{font-size: 16px;line-height: 22px;margin-bottom: 15px}
 
-.sidebar{width: 255px;background: #DFDFDF none repeat scroll 0 0;float: right;margin-top: 15px;padding: 10px}
+.sidebar{width: 255px;background: #DFDFDF none repeat scroll 0 0;float: right;margin-top: 15px;padding: 10px;margin-bottom: 15px}
 
 .samesidebar{}
 
