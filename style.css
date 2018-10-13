@@ -7,6 +7,9 @@
 /*Apply CSS for Body*/
 body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
+/*Controlling Overflow*/
+.clear{overflow: hidden}
+
 .templete{width: 960px;margin: 0 auto}
 
 .headersection{height: 85px;background: #090909;color: #FFFFFF}
@@ -17,18 +20,18 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .navsection p{padding-left: 50px;font-size: 20px;padding-top: 5px;font-weight: bold}
 
-.contentsection{}
+.contentsection{background: #FFFFFF}
 
-.maincontent{}
+.maincontent{width: 650px;background: #DFDFDF none repeat scroll 0 0;float: left;padding: 10px;margin: 15px 15px 15px 0}
 
 .maincontent p{}
 
-.sidebar{}
+.sidebar{width: 255px;background: #BBB9BA none repeat scroll 0 0;float: right;margin-top: 15px;padding: 10px}
 
 .sidebar p{}
 
-.footersection{}
+.footersection{height: 90px;background: #555555}
 
-.footersection p{}
+.footersection p{color: #fff;text-align: center;font-size: 30px;padding-top: 30px}
 
 	
