@@ -24,11 +24,15 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .maincontent{width: 650px;background: #DFDFDF none repeat scroll 0 0;float: left;padding: 10px;margin: 15px 15px 15px 0}
 
-.maincontent p{}
+.maincontent p{font-size: 16px;line-height: 22px;margin-bottom: 15px}
 
-.sidebar{width: 255px;background: #BBB9BA none repeat scroll 0 0;float: right;margin-top: 15px;padding: 10px}
+.sidebar{width: 255px;background: #DFDFDF none repeat scroll 0 0;float: right;margin-top: 15px;padding: 10px}
 
-.sidebar p{}
+.samesidebar{}
+
+.samesidebar p{margin-bottom: 10px}
+
+.samesidebar h2{background: #9b999a none repeat 0 0;border-bottom: 2px solid #555555;color: #fff;margin-bottom: 8px;padding: 10px}
 
 .footersection{height: 90px;background: #555555}
 
