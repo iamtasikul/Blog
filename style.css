@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Reset Default CSS*/
+*{margin: 0;padding: 0;outline: 0}
+
+/*Apply CSS for Body*/
+body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
+
+.templete{width: 960px;margin: 0 auto}
+
+.headersection{height: 85px;background: #090909;color: #FFFFFF}
+
+.headersection h2{text-align: center;padding-top: 30px;font-size: 40px}
+
+.navsection{height: 30px;background: #7A7A7A;color: #FFFDFD}
+
+.navsection p{padding-left: 50px;font-size: 20px;padding-top: 5px;font-weight: bold}
+
+.contentsection{}
+
+.maincontent{}
+
+.maincontent p{}
+
+.sidebar{}
+
+.sidebar p{}
+
+.footersection{}
+
+.footersection p{}
+
+	
