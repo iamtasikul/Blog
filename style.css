@@ -12,46 +12,46 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .templete{width: 960px;margin: 0 auto}
 
-.headersection{height: 85px;background: #090909;color: #FFFFFF}
+.headersection{height: 85px;background: #b78016 none repeat scroll 0 0;color: #FFFFFF}
 
 .headersection h2{text-align: center;padding-top: 30px;font-size: 40px}
 
-.navsection{background: #7A7A7A;color: #FFFDFD}
+.navsection{background:#e6af4b; color:#C9BC0A none repeat scroll 0 0}
 
 .navsection ul{margin: 0;padding: 0;list-style: none}
 
 .navsection ul li{display: block;float: left}
 
-.navsection ul li a{background: #cdcbcc none repeat 0 0;color:#444;display: block;font-size: 20px;font-weight: bold;margin: 5px;padding: 5px 30px;text-decoration: none}
+.navsection ul li a{background: #c48d29 none repeat scroll 0 0;border: 1px solid #c48d29;border:1px solid #b7801c;border-radius: 2px; color:#fff;display: block;font-size: 20px;font-weight: bold;margin: 5px;padding: 5px 15px;text-decoration: none}
 
-.navsection ul li a:hover{background: #2f2d2e;color: #FFF}
+.navsection ul li a:hover{background: #fef4e5;color: #333}
 
 .contentsection{background: #FFFFFF}
 
-.maincontent{width: 650px;background: #DFDFDF none repeat scroll 0 0;float: left;padding: 10px;margin: 15px 15px 15px 0}
+.maincontent{width: 628px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: left;padding: 8px 20px;margin: 15px 15px 15px 0}
 
 .samepost{}
 
-.samepost h2{border-bottom: 2px solid #555555;font-size: 24px;margin-bottom: 10px;padding: 10px}
+.samepost h2{border-bottom: 2px solid #e0d6c7;color:#ac7511;font-size: 25px;margin-bottom: 10px;padding: 10px}
 
-.samepost img{background: #fff none repeat  scroll 0 0;border: 1px solid #9b999a;float: left;margin-right: 10px;padding: 5px;width: 200px}
+.samepost img{background: #fff none repeat  scroll 0 0;border: 1px solid #ebb450;float: left;margin-right: 10px;padding: 5px;width: 200px}
 
 .samepost p{font-size: 16px;line-height: 23px;text-align: justify}
 
 .readmore{float: right;margin-top: 10px}
 
-.readmore a{background: #fff none repeat scroll 0 0;border: 1px solid #9b999a;border-radius: 3px;color: #333;display: block;font-size: 15px;padding: 4px 8px;text-decoration: none }
+.readmore a{background: #fff none repeat scroll 0 0;border: 1px solid #b7801c;border-radius: 3px;color: #b7801c;display: block;font-size: 17px;padding: 4px 8px;text-decoration: none }
 
-.sidebar{width: 255px;background: #DFDFDF none repeat scroll 0 0;float: right;margin-top: 15px;padding: 10px;margin-bottom: 15px}
+.readmore a:hover{color: #e16525}
+
+.sidebar{width: 253px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: right;margin-top: 15px;margin-bottom: 15px;padding: 10px}
 
 .samesidebar{}
 
 .samesidebar p{margin-bottom: 10px}
 
-.samesidebar h2{background: #9b999a none repeat 0 0;border-bottom: 2px solid #555555;color: #fff;margin-bottom: 8px;padding: 10px}
+.samesidebar h2{background: #e6af4b none repeat 0 0;border-bottom: 2px solid #b7801c;color: #333;margin-bottom: 8px;padding: 10px}
 
-.footersection{height: 90px;background: #555555}
+.footersection{height: 90px;background: #b78016}
 
 .footersection p{color: #fff;text-align: center;font-size: 30px;padding-top: 30px}
-
-	
