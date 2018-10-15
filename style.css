@@ -18,7 +18,13 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .logo img{float: left;margin-right: 15px;padding-bottom: 10px;padding-left: 20px;padding-top: 10px;width: 70px}
 
-.logo h2{color: #fff;font-size: 32px;margin-bottom: 11px;margin-top: 24px;text-shadow: 2px 2px 0 #666}
+.logo h2 {
+    color: #fff;
+    font-size: 26px;
+    margin-bottom: 11px;
+    margin-top: 12px;
+    text-shadow: 2px 2px 0 #666;
+}
 
 .logo p{}
 
@@ -26,7 +32,7 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .social a{}
 
-.social img{width: 60px}
+.social img{width: 40px}
 
 .navsection{background:#e6af4b; color:#C9BC0A none repeat scroll 0 0}
 
@@ -38,9 +44,11 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .navsection ul li a:hover{background: #fef4e5;color: #333}
 
+.slidersection{box-shadow: 0 8px 10px -2px #555;margin-bottom: 12px}
+
 .contentsection{background: #FFFFFF}
 
-.maincontent{width: 628px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: left;padding: 8px 20px;margin: 15px 15px 15px 0}
+.maincontent{width: 628px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: left;padding: 8px 20px;margin: 0 15px 15px 0}
 
 .samepost{}
 
@@ -56,7 +64,7 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .readmore a:hover{color: #e16525}
 
-.sidebar{width: 253px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: right;margin-top: 15px;margin-bottom: 15px;padding: 10px}
+.sidebar{width: 253px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: right;margin-top: 0;margin-bottom: 15px;padding: 10px}
 
 .samesidebar{}
 
