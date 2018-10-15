@@ -50,9 +50,15 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .maincontent{width: 628px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: left;padding: 8px 20px;margin: 0 15px 2px 0}
 
+.about{}
+
+.about img{background: #fff none repeat scroll 0 0;border: 1px solid #b7801c;float:left;height: 190px;margin-right: 10px;padding: 5px;width: 300px}
+
+.about p{font-size: 16px;line-height: 24px;margin-bottom: 10px;text-align: justify}
+
 .samepost{}
 
-.samepost h2{border-bottom: 2px solid #e0d6c7;color:#ac7511;font-size: 25px;margin-bottom: 10px;padding: 10px}
+.samepost h2,.about h2{border-bottom: 2px solid #e0d6c7;color:#ac7511;font-size: 25px;margin-bottom: 10px;padding: 10px}
 
 .samepost img{background: #fff none repeat  scroll 0 0;border: 1px solid #ebb450;float: left;margin-right: 10px;padding: 5px;width: 200px}
 
@@ -66,7 +72,7 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .sidebar{width: 253px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: right;margin-top: 0;margin-bottom: 15px;padding: 10px}
 
-.samesidebar{}
+
 
 .samesidebar p{margin-bottom: 10px}
 
@@ -78,9 +84,9 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .samesidebar ul li:last-child{border-bottom: 0px dashed #e9c05c}
 
-.samesidebar ul li a{color:#000000;text-decoration: none}
+.samesidebar ul li a{color:#814a00;text-decoration: none}
 
-.samesidebar ul li a:hover{color: #814a00}
+.samesidebar ul li a:hover{color: #000000}
 
 .footersection{height: 90px;background: #b78016}
 
@@ -94,6 +100,3 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .footersection p{text-align: center}
 
-
-
-	
