@@ -1,2 +1,2 @@
 # Blog
-Blog Using HTML &amp; CSS
+Blog Using HTML ,CSS &amp; JavaScript
