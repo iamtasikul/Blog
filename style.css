@@ -12,9 +12,21 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .templete{width: 960px;margin: 0 auto}
 
-.headersection{height: 85px;background: #b78016 none repeat scroll 0 0;color: #FFFFFF}
+.headersection{background: #b78016 none repeat scroll 0 0;color: #FFFFFF}
 
-.headersection h2{text-align: center;padding-top: 30px;font-size: 40px}
+.logo{float: left;width: 430px}
+
+.logo img{float: left;margin-right: 15px;padding-bottom: 10px;padding-left: 20px;padding-top: 10px;width: 70px}
+
+.logo h2{color: #fff;font-size: 32px;margin-bottom: 11px;margin-top: 24px;text-shadow: 2px 2px 0 #666}
+
+.logo p{}
+
+.social{float: right;padding-top: 16px;width: 255px}
+
+.social a{}
+
+.social img{width: 60px}
 
 .navsection{background:#e6af4b; color:#C9BC0A none repeat scroll 0 0}
 
@@ -55,3 +67,5 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 .footersection{height: 90px;background: #b78016}
 
 .footersection p{color: #fff;text-align: center;font-size: 30px;padding-top: 30px}
+
+	
