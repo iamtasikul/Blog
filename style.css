@@ -44,11 +44,11 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .navsection ul li a:hover{background: #fef4e5;color: #333}
 
-.slidersection{box-shadow: 0 8px 10px -2px #555;margin-bottom: 12px}
+.slidersection{box-shadow: 0 8px 10px -2px #555;margin-bottom: 5px}
 
 .contentsection{background: #FFFFFF}
 
-.maincontent{width: 628px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: left;padding: 8px 20px;margin: 0 15px 15px 0}
+.maincontent{width: 628px;background: #fef4e5 none repeat scroll 0 0;border: 1px solid #b7801c;float: left;padding: 8px 20px;margin: 0 15px 2px 0}
 
 .samepost{}
 
@@ -74,6 +74,16 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .footersection{height: 90px;background: #b78016}
 
-.footersection p{color: #fff;text-align: center;font-size: 30px;padding-top: 30px}
+.footermenu{margin-top: 25px;margin-bottom: 5px}
+
+.footermenu ul{padding: 0;margin: 0;list-style: none;text-align: center}
+
+.footermenu ul li{display:inline-block}
+
+.footermenu ul li a{color: #e6af4b;font-size: 18px;margin-right: 5px}
+
+.footersection p{text-align: center}
+
+
 
 	
