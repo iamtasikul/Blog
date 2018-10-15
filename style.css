@@ -72,6 +72,16 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .samesidebar h2{background: #e6af4b none repeat 0 0;border-bottom: 2px solid #b7801c;color: #333;margin-bottom: 8px;padding: 10px}
 
+.samesidebar ul{padding: 0;margin: 0;list-style: none;}
+
+.samesidebar ul li{border-bottom: 1px dashed #e9c05c;font-size: 16px;padding: 5px 8px 5px 0}
+
+.samesidebar ul li:last-child{border-bottom: 0px dashed #e9c05c}
+
+.samesidebar ul li a{color:#000000;text-decoration: none}
+
+.samesidebar ul li a:hover{color: #814a00}
+
 .footersection{height: 90px;background: #b78016}
 
 .footermenu{margin-top: 25px;margin-bottom: 5px}
