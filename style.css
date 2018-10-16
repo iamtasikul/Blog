@@ -10,6 +10,14 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 /*Controlling Overflow*/
 .clear{overflow: hidden}
 
+input[type="text"],input[type="email"]{border: 1px solid #cfc5b6;border-radius: 3px;margin-bottom: 5px;padding: 5px;width: 300px}
+
+input[type="submit"]{background: #b7801c none repeat scroll 0 0;border: 1px solid #e6af4b;color: #fff;cursor: pointer;font-size: 20px;padding: 1px 10px;border-radius: 5px}
+
+input[type="submit"]:hover{background: #fef4e5;color: #000000}
+
+textarea{height: 110px;margin-bottom: 10px;padding: 5px;width: 300px;border: 1px solid #cfc5b6}
+
 .templete{width: 960px;margin: 0 auto}
 
 .headersection{background: #b78016 none repeat scroll 0 0;color: #FFFFFF}
@@ -100,3 +108,6 @@ body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
 
 .footersection p{text-align: center}
 
+
+
+	
