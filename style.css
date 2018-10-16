@@ -5,7 +5,7 @@
 *{margin: 0;padding: 0;outline: 0}
 
 /*Apply CSS for Body*/
-body{font-family: arial;font-size: 14px;line-height: 18px;color: #000}
+body{font-family: arial;font-size: 14px;line-height: 18px;color: #000;background:url(images/bg.png) repeat fixed 0 0 #fff;}
 
 /*Controlling Overflow*/
 .clear{overflow: hidden}
